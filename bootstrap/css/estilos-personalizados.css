@@ -1,0 +1,143 @@
+
+.body-blog {
+	background-color: #C4D0E1;
+	width: 100%;
+	height: 100%;
+	font-size: 16px;
+
+}
+.texto{ 
+	padding-top: 35px;
+
+}
+.historial{
+	color: black !important;
+	text-decoration: none !important;
+	
+
+}
+.historia{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 15px;
+}
+.historia:hover{
+	background-color: #DADDDE;
+}
+.link{
+	color: white !important;
+	text-decoration-style: none !important;
+}
+.nav-item{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+	
+	}
+.formulario{
+	padding-top: 30px;
+}
+.nav-item:hover{
+	background-color: #2C4A6D;
+	text-decoration: none;
+
+}
+.redessociales{
+	padding: 0px !important;
+}
+.lupa{
+	width: 100%;
+	
+}
+.articulo{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.icon:hover{
+	-webkit-filter: blur(10px); 
+	filter: blur(1px);
+	opacity: 0.7;
+    filter: alpha(opacity=70);
+}
+.imagen{
+	width: 100%;
+	min-height: 150px;	
+	padding-top: 35px;
+}
+.usuario{
+	width: 100%;
+	min-height: 30px;
+
+}
+.udiv{
+	padding: 0px  !important;
+}
+.superior {
+	background-color: #1C5698;
+	border-radius: 15px 15px 0px 0px;
+	
+	
+
+
+}
+.logo{
+	padding-top: 20px;
+	padding-left: 10px;
+}
+.cuerpo{
+	background-color: #E9EDEF;
+	margin-top: 25px;
+	border-radius: 30px;
+	padding: 10px;
+	
+}
+
+.buscador{
+	padding-top: 25px;
+	
+	
+}
+
+.nav {
+	background-color: #4590A5;
+	min-height: 40px;
+	border-radius: 0px 0px 15px 15px;
+	
+	
+}
+.redes{
+	padding-top: 10px;
+	padding-bottom: 25px;
+
+	}
+	
+  @media (max-width:992px){
+    .buscador{
+    	display: none;
+
+    }
+    
+    .formulario{
+	padding-top: 20px;
+}
+
+}
+  @media (max-width:500px){
+    .buscador{
+    	display: none;
+
+    }
+    
+    .formulario{
+	padding-top: 0px;
+}
+.articulo{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.imagen{
+	
+	padding-top: 10px;
+}
+
+}
