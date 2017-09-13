@@ -1,0 +1,192 @@
+html{
+	background-color: #0097a7;
+}
+body{
+	background: url(../img/ilinizas.jpg);
+	
+ 	background-position: 0px 150px;
+ 	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+  	
+  	margin-bottom: 0px!important;
+
+  	
+  }
+  .title{
+	font-size: 35px !important;
+}
+  .img-columnas{
+  	padding-left: 0px !important;
+  	padding-right: 0px !important;
+  }
+.logo{
+	width: 100%;
+	min-height: 200px;
+	border-radius: 25px;
+}
+
+.redes-sociales{
+	width: 100%;
+
+}
+.banner{
+	background-color: rgba(32, 74, 255, 0.2);
+	border-radius: 10px;
+	margin-left: 10px;
+}
+.contimg{
+	margin-top: 25px;
+	padding-left: 0px!important;
+	padding-right: 0px !important;
+}
+.menu{
+	margin-top: 25px;
+
+}
+
+.autor{
+	margin-left: 20px;
+}
+
+.menu-item {
+	padding-left: 2px;
+	padding-right: 2px;
+	width: 100%;
+	vertical-align: middle;
+	font-size: 10px;
+	
+}
+.icon{
+	padding-left: 2px;
+	padding-right: 4px;
+	padding-top: 2px;
+}
+.imagenes{
+	width: 100%;
+	height: 100%;
+	border-radius: 10px;
+
+}
+.imagenes-centro{
+	width: 100%;
+	min-height: 700px;
+	border-radius: 10px;
+}
+.autor{
+	height: 100px;
+}
+.imagen-seccion{
+	width: 400px;
+	float: left;
+	margin: 25px 15px 15px 15px;
+	border-radius: 25px;
+}
+.imagen-autor{
+	width: 100%;
+}
+.texto{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: justify;
+	padding: 10px 10px 10px 10px;
+}
+.texto-autor{
+	
+	text-align: justify;
+	
+}
+.texto-titulo{
+	
+	margin-bottom: 0px;
+	
+	padding: 10px 10px 10px 10px;
+}
+
+.icon-gadget{
+	
+	vertical-align: middle;
+}
+  @media (max-width:990px){
+    
+.imagen-seccion{
+	
+	width: 100%;
+	margin: 10px 0px 10px 0px;
+	
+}
+.logo{
+	
+	height: 50px;
+	border-radius: 25px;
+}
+.panel-autor{
+	text-align: center;
+}
+
+.imagenes-centro{
+	width: 100%;
+	height: 500px !important;
+	border-radius: 10px;
+}
+.boton{
+	text-align: center;
+}
+
+}
+ @media (max-width:990px){
+    .itemenu {
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+	width: 100%;
+	vertical-align: middle;
+	margin-top: 10px;
+	
+}
+
+}
+ @media (max-width:900px){
+    body{
+	background: url(../img/ilinizas.jpg);
+	
+ 	background-position: 0px 200px;
+ 	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+  	
+  	margin-bottom: 0px!important;
+
+  	
+  }
+  .imagenes-centro{
+	width: 100%;
+	
+	border-radius: 10px;
+}
+.image{
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+
+}
+.logo{
+	margin-left: 10px;
+}
+}
+ @media (max-width:600px){
+    body{
+	background: url(../img/ilinizas.jpg);
+	
+ 	background-position: 0px 250px;
+ 	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+  	
+  	margin-bottom: 0px!important;
+
+  	
+  }
+  .icon{
+	width: 100%;
+}
+
+}
